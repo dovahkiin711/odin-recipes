@@ -1,0 +1,23 @@
+body{
+    background-color: #96CEB4;
+}
+
+
+.chef{
+    width: 1000px;
+    height: auto;
+}
+
+.title{
+    text-align: center;
+    font-family: 'Google Sans', Verdana, sans-serif;
+    font-size: 50px;
+    color: #D9534F;
+}
+
+.recipes-list{
+font-family: 'Google Sans', Verdana, sans-serif;
+font-size: 25px;
+color: #D9534F;
+}
+
